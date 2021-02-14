@@ -1,0 +1,37 @@
+{
+    "rivers": [
+        {
+            "id": 0,
+            "name": "Brazos River",
+            "source": "Stonewall County",
+            "mouth": "Gulf of Mexico, Brazoria County",
+            "elevation": 1486,
+            "length": 840,
+            "basin": 45000,
+            "discharge": 8390,
+            "link": "https://en.wikipedia.org/wiki/Brazos_River"
+        },
+        {
+            "id": 1,
+            "name": "Colorado River",
+            "source": "Dawson County",
+            "mouth": "Gulf of Mexico, Matagorda County",
+            "elevation": 3280,
+            "length": 862,
+            "basin": 39900,
+            "discharge": 2609,
+            "link": "https://en.wikipedia.org/wiki/Colorado_River_(Texas)"
+        },
+        {
+            "id": 2,
+            "name": "Guadalupe River",
+            "source": "Kerr County",
+            "mouth": "Gulf of Mexico, Calhoun County",
+            "elevation": 676,
+            "length": 370,
+            "basin": 6700,
+            "discharge": 1200,
+            "link": "https://en.wikipedia.org/wiki/Guadalupe_River_(Texas)"
+        }
+    ]
+}
