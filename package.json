@@ -1,0 +1,23 @@
+{
+  "name": "texasriver_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobcraigross/texasriver_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobcraigross/texasriver_api/issues"
+  },
+  "homepage": "https://github.com/jacobcraigross/texasriver_api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
