@@ -32,6 +32,17 @@
             "basin": 6700,
             "discharge": 1200,
             "link": "https://en.wikipedia.org/wiki/Guadalupe_River_(Texas)"
+        },
+        {
+            "id": 3,
+            "name": "Neches River",
+            "source": "Van Zandt County",
+            "mouth": "Sabine Lake, Orange County",
+            "elevation": 676,
+            "length": 416,
+            "basin": 10011,
+            "discharge": 8301,
+            "link": "https://en.wikipedia.org/wiki/Neches_River"
         }
     ]
 }
